@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.jtwitch.action"},{"l":"io.github.jtwitch.command"},{"l":"io.github.jtwitch.command.type"},{"l":"io.github.jtwitch.message"},{"l":"io.github.jtwitch.socket"},{"l":"io.github.jtwitch.socket.connection"}];updateSearchResults();
